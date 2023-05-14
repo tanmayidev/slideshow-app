@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slideshow-app/static/css/main.32612ccb.css",
+    "main.js": "/slideshow-app/static/js/main.37e0a41b.js",
+    "index.html": "/slideshow-app/index.html",
+    "main.32612ccb.css.map": "/slideshow-app/static/css/main.32612ccb.css.map",
+    "main.37e0a41b.js.map": "/slideshow-app/static/js/main.37e0a41b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32612ccb.css",
+    "static/js/main.37e0a41b.js"
+  ]
+}
