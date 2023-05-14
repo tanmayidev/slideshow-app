@@ -1,5 +1,5 @@
 # Slideshow App
-A simple Slideshow App made as part of an hiring assignment
+A simple [Slideshow App](https://tanmayidev.github.io/slideshow-app/) made as part of an hiring assignment
 
 ## Task
 - The Slides component takes an array of slides as a prop. Each element of this array denotes a single slide and is an object with 2 properties: string title and string text.
